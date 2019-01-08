@@ -21,9 +21,6 @@ Dataset Link     : <a href=https://github.com/deedy/gradcafe_data>Gradcafe Data 
 </pre>
 
 ### Dataset Details
-<pre>
-Dataset Name            : Gradcafe Data
-</pre>
 
 | Dataset Subtype | Number of item  | Size of Images (GB/Gigabyte) |
 | :-------------- | --------------: | ---------------------------: |
