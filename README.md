@@ -85,7 +85,7 @@ The schema of the `cs.csv` file, which contain all results that have word beginn
 <kbd>
 <img src=https://github.com/anjanatiha/Intelligent-Chatbot/blob/master/images/chat_gui.png>
 </kbd>
-
+-->
 
 #### Tools / Libraries
 <pre>
