@@ -28,7 +28,8 @@ Dataset Link     : <a href=https://github.com/deedy/gradcafe_data>Gradcafe Data 
 | **All**         | 271,807         | 71.5 MB                      |
 
 
-### Schema (Credit: Debarghya Das(deedy))
+### Schema 
+(Credit: Debarghya Das(deedy))
 
 The schema of the `all.csv` file which contains all the content on GradCafe and the `allgrad` table in `all.sql` is:
 
