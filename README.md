@@ -23,7 +23,7 @@ Dataset Link     : <a href=https://github.com/deedy/gradcafe_data>Gradcafe Data 
 ### Dataset Details
 
 | Dataset Subtype | Number of item  | Size of Images (GB/Gigabyte) |
-| :-------------- | :-------------: | :--------------------------: |
+| :--------------:| :-------------: | :--------------------------: |
 | **CS**          | 27,822          | 5.12 MB                      |
 | **All**         | 271,807         | 71.5 MB                      |
 
