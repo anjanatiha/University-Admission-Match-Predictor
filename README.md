@@ -96,7 +96,7 @@ Libraries               : Recommendation System
 
 #### Dates
 <pre>
-Duration                : December 2018 – January 2019
+Duration                : November 2018 – January 2019
 Current Version         : v1.0.0.4
 Last Update             : 12.25.2018
 </pre>
