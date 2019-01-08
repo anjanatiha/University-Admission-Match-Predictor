@@ -35,11 +35,6 @@ Dataset Name            : Gradcafe Data
 | **CS**          | 27,822          | 5.72 GB                      |
 | **All**         | 271,807         | 3.43 GB                      |
 
-# Gradcafe Data
-
-cs/ - Contains all results with the query "computer*" - 27,822 results
-all/ - Contains all results with the query "u*" (experimentally the most you can get with one query) - 271,807 results
-
 ### Schema
 
 
@@ -99,12 +94,17 @@ The schema of the `cs.csv` file, which contain all results that have word beginn
 <img src=https://github.com/anjanatiha/Intelligent-Chatbot/blob/master/images/chat_gui.png>
 </kbd>
 
-##### Languages   : Python
-##### Tools/IDE   : Anaconda
-##### Libraries   : Recommendation System
 
-##### Duration   : Dec 18 – Jan 19
+#### Tools / Libraries
+<pre>
+Languages               : Python
+Tools/IDE               : Anaconda
+Libraries               : Recommendation System
+</pre>
 
-Current Version  : v1.0.0.0
-
-Last Update      : 12.25.2018
+#### Dates
+<pre>
+Duration                : December 2018 – January 2019
+Current Version         : v1.0.0.4
+Last Update             : 12.25.2018
+</pre>
