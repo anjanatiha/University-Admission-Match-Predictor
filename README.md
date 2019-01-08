@@ -32,11 +32,11 @@ Dataset Name            : Gradcafe Data
 
 | Dataset Subtype | Number of item  | Size of Images (GB/Gigabyte) |
 | :-------------- | --------------: | ---------------------------: |
-| **CS**          | 27,822          | 5.72 GB                      |
-| **All**         | 271,807         | 3.43 GB                      |
+| **CS**          | 27,822          | 5.12 MB                      |
+| **All**         | 271,807         | 71.5 MB                      |
+
 
 ### Schema
-
 
 The schema of the `all.csv` file which contains all the content on GradCafe and the `allgrad` table in `all.sql` is:
 
