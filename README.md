@@ -1,11 +1,6 @@
 # University Admission Analysis
 <pre>
 Domain             : Recommendation System
-<!--
-Sub-Domain         : 
-Techniques         : 
-Application        : 
--->
 </pre>
 
 ### Description
