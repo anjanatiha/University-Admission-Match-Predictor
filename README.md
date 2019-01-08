@@ -29,7 +29,7 @@ Dataset Link     : <a href=https://github.com/deedy/gradcafe_data>Gradcafe Data 
 
 
 ### Schema 
-Credit: Debarghya Das(deedy)
+Credit: Thanks to Debarghya Das(deedy) for data and schema
 
 The schema of the `all.csv` file which contains all the content on GradCafe and the `allgrad` table in `all.sql` is:
 
