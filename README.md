@@ -1,10 +1,14 @@
 # University Admission Analysis
 
-##### Domain             : Recommendation System
+
+<pre>
+Domain             : Recommendation System
 <!--
-##### Sub-Domain         : 
-##### Techniques         :
+Sub-Domain         : 
+Techniques         : 
+Application        : 
 -->
+</pre>
 
 ### Description
 1. Analyzed university admission statistics.
